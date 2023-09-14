@@ -15,4 +15,6 @@ If you like it, you can buy it on the App Store:
 
 https://apps.apple.com/cn/app/iboot-startupdisk-shortcut/id6465744342?l=en&mt=12
 
-In AppStore Edition, there is no Geekmode button due to the Apple Review Guideline, however you can open **Terminal** and type `defaults write top.mightycounty.BootCampSwitcher geekmode true` to enable the geekmode or you can type `defaults write top.mightycounty.BootCampSwitcher geekmode false` to disable the geekmode.
+In AppStore version, there is no Geekmode button due to the Apple Review Guideline. However you can open **Terminal** and type `defaults write top.mightycounty.BootCampSwitcher geekmode true` to enable the geekmode or you can type `defaults write top.mightycounty.BootCampSwitcher geekmode false` to disable the geekmode. This will take effect after the next launch.
+
+Additionally, you can type `sudo killall iBoot` to quit **iBoot** if you can't find a quit button.
