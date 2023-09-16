@@ -2,7 +2,7 @@
 A shortcut on the menubar to the Startup Disk panel, which is the shortest and safest path to boot from Windows on macOS.
 
 ## TestFlight
-Please visit the following testflight link to try the app for free.
+Please visit the following testflight link for free trials.
 
 https://testflight.apple.com/join/yjWEwvq1 
 
