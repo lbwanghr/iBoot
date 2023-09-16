@@ -15,8 +15,10 @@ If you like it, you can buy it on the App Store:
 
 https://apps.apple.com/cn/app/iboot-startupdisk-shortcut/id6465744342?l=en&mt=12
 
-### Advanced Usage
-In AppStore version, there is no Geekmode button due to the Apple Review Guideline. 
+## Advanced Usage
+In **geekmode**, you can reach the destination with one click on the icon, but you will lose access to the pull-down menu.
+
+In AppStore version, there is no Geekmode entry due to the Apple Review Guideline. 
 
 However you can open **Terminal** and type the following command to enable the geekmode.
 
