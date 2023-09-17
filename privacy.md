@@ -177,4 +177,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: [\[email protected\]](/cdn-cgi/l/email-protection)
+*   By email: lbwanghr@icloud.com
