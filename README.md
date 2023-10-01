@@ -9,7 +9,7 @@ https://testflight.apple.com/join/yjWEwvq1
 ## AppStore
 If you like it, you can buy it on the App Store.
 
-https://apps.apple.com/cn/app/iboot-startupdisk-shortcut/id6465744342?l=en&mt=12
+https://apps.apple.com/app/apple-store/id6465744342?pt=123719714&ct=Github&mt=8
 
 ## Advanced Usage
 In **geek mode**, you can reach the destination with one click on the icon, but you will lose access to the pull-down menu.
