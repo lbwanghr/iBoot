@@ -3,6 +3,7 @@ A shortcut on the menubar to the Startup Disk panel, which is the shortest and s
 
 ## Free Trials
 Please visit the release page to try it for free.
+
 https://github.com/lbwanghr/iBoot/releases/tag/v1.1.15
 
 ## AppStore
