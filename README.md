@@ -34,4 +34,4 @@ Sometimes you may find some of your disks are missing in the StartupDisk panel, 
 Now that you're here, you can try some of the free apps in my repositories.
 
 ---
-Any questions please email lbwanghr@icloud.com.
+Any questions please create an issue or email me lbwanghr@icloud.com.
