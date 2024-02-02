@@ -30,6 +30,10 @@ Additionally, you can type `sudo killall iBoot` to quit **iBoot** if you can't f
 ### Missing disk?
 Sometimes you may find some of your disks are missing in the StartupDisk panel, don't worry, it's just not well been displayed due to the macOS. Feel free to click on an empty area where you think the disk should be placed, and you will notice the prompt changes just as you imagined.
 
+### Not work?
+Less than 1% said they couldn't open this app. However, before iBoot v1.1.5 was released, I had tested it on every major version of macOS with both Intel and M1 chip.  
+There may be other situations that I haven't considered，but if you encounter a problem, please submit an issue with a screenshot of your **About My Mac** page and your demo video link which could reproduce the problem. I'll investigate it and get back to you as soon as possible.
+
 ## Bonus
 Now that you're here, you can try some of the free apps in my repositories.
 
