@@ -4,7 +4,7 @@ It's recommended to get Windows 11 by upgrading from Windows 10.
 
 1. you should install Windows 10 through BootCamp on your Mac.
 
-2. you should download a Windows 11 image, the file extension may be .iso.
+2. you should download a Windows 11 image, the file extension may be ".iso".
 
 3. download the script named "[BypassTPM.cmd](BypassTPM.cmd)" in this repository.
 
