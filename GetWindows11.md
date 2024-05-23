@@ -12,11 +12,11 @@ It's recommended to get Windows 11 by upgrading from Windows 10.
 
 # Why you should run the script before installing Windows 11?
 
-If you check upgrade on Windows 10, it may prompt you that you can't upgrade to Windows 11 because you don't have TPM module.
+If you check upgrade on Windows 10, it may prompt you that you can't upgrade to Windows 11 because you don't have the TPM module.
 
 But don't give up here, you just need to run the script to bypass the TPM check. 
 
-Thanks to the author of this script, it saves our time and gives us hope. But I don't know which genius create it.
+Thanks to the author of this script, it saves our time and gives us hope, although I don't know which genius create it.
 
 ---
 
