@@ -1,8 +1,8 @@
 # iBoot - StartupDisk shortcut
 A shortcut on the menubar to the Startup Disk panel, which is the shortest and safest path to boot from Windows on macOS.
 
-## TestFlight
-Please visit the testflight [link](https://testflight.apple.com/join/yjWEwvq1) for free trials.
+## Free Trials
+Please visit the [TestFlight link](https://testflight.apple.com/join/yjWEwvq1) for free trials.
 
 If you like it, you can buy it on the [App Store](https://apps.apple.com/app/apple-store/id6465744342?pt=123719714&ct=Github&mt=8).
 
