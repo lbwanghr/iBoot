@@ -26,6 +26,10 @@ Changes to geekmode will take effect after the next launch.
 
 Additionally, you can type `sudo killall iBoot` to quit **iBoot** if you can't find a quit button.
 
+## Get Windows 11
+It's recommended to get Windows 11 by running a Windows 11 image on Windows 10.  
+Learn more about it by reading [this](GetWindows11.md) article.
+
 ## Known issues
 ### Missing disk?
 Sometimes you may find some of your disks are missing in the StartupDisk panel, don't worry, it's just not well been displayed due to the macOS. Feel free to click on an empty area where you think the disk should be placed, and you will notice the prompt changes just as you imagined.
