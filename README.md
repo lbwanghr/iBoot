@@ -2,14 +2,9 @@
 A shortcut on the menubar to the Startup Disk panel, which is the shortest and safest path to boot from Windows on macOS.
 
 ## TestFlight
-Please visit the following testflight link for free trials.
+Please visit the testflight [link](https://testflight.apple.com/join/yjWEwvq1) for free trials.
 
-https://testflight.apple.com/join/yjWEwvq1 
-
-## AppStore
-If you like it, you can buy it on the App Store.
-
-https://apps.apple.com/app/apple-store/id6465744342?pt=123719714&ct=Github&mt=8
+If you like it, you can buy it on the [App Store](https://apps.apple.com/app/apple-store/id6465744342?pt=123719714&ct=Github&mt=8).
 
 ## Advanced Usage
 In **geek mode**, you can reach the destination with one click on the icon, but you will lose access to the pull-down menu.
@@ -28,6 +23,7 @@ Additionally, you can type `sudo killall iBoot` to quit **iBoot** if you can't f
 
 ## Get Windows 11
 It's recommended to get Windows 11 by running a Windows 11 image on Windows 10.  
+
 Learn more about it by reading [this](GetWindows11.md) article.
 
 ## Known issues
@@ -36,6 +32,7 @@ Sometimes you may find some of your disks are missing in the StartupDisk panel, 
 
 ### Not work?
 Less than 1% said they couldn't open this app. However, before iBoot v1.1.5 was released, I had tested it on every major version of macOS with both Intel and M1 chip.  
+
 There may be other situations that I haven't considered，but if you encounter a problem, please submit an issue with a screenshot of your **About My Mac** page and your demo video link which could reproduce the problem. I'll investigate it and get back to you as soon as possible.
 
 ## Bonus
