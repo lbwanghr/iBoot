@@ -6,7 +6,7 @@ It's recommended to get Windows 11 by upgrading from Windows 10.
 
 2. you should download a Windows 11 image, the file extension may be .iso.
 
-3. download the script named "BypassTPM.cmd" in this repository.
+3. download the script named "[BypassTPM.cmd](BypassTPM.cmd)" in this repository.
 
 4. run the CMD script with administrator privileges before you run Windows 11 image on Windows 10.
 
