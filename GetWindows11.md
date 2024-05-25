@@ -16,7 +16,7 @@ If you check upgrade on Windows 10, it may prompt you that you can't upgrade to 
 
 But don't give up here, you just need to run the script to bypass the TPM check. 
 
-Thanks to the author of this script, it saves our time and gives us hope, although I don't know which genius create it.
+Thanks to the author of this script, it saves our time and gives us hope, you can visit the author's [repository](https://github.com/Games234/AveYo) to learn more.
 
 ---
 
