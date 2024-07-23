@@ -10,7 +10,7 @@ It's recommended to get Windows 11 by upgrading from Windows 10.
 
 4. Run the CMD script with administrator privileges before running Windows 11 image on Windows 10.
 
-# Why you should run the script before installing Windows 11?
+# Why should you run the script before installing Windows 11?
 
 If you check upgrade on Windows 10, it may prompt you that you can't upgrade to Windows 11 because you don't have the TPM module.
 
