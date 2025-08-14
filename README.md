@@ -33,10 +33,7 @@ Sometimes you may find some of your disks are missing in the StartupDisk panel, 
 ### Not work?
 Less than 1% said they couldn't open this app. However, before iBoot v1.1.5 was released, I had tested it on every major version of macOS with both Intel and M1 chip.  
 
-There may be other situations that I haven't considered，but if you encounter a problem, please submit an issue with a screenshot of your **About My Mac** page and your demo video link which could reproduce the problem. I'll investigate it and get back to you as soon as possible.
-
-## Bonus
-Now that you're here, you can try some of the free apps in my repositories.
+There may be other situations that I haven't considered，but if you encounter a problem, please provide a screenshot of your **About My Mac** page and your demo video link which could reproduce the problem. I'll investigate it and get back to you as soon as possible.
 
 ---
-Any questions please create an issue or email me lbwanghr@icloud.com.
+Any questions please email me lbwanghr@icloud.com.
