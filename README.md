@@ -33,6 +33,8 @@ Sometimes you may find some of your disks are missing in the StartupDisk panel, 
 ### Not work?
 Less than 1% said they couldn't open this app. However, before iBoot v1.1.5 was released, I had tested it on every major version of macOS with both Intel and M1 chip.  
 
+I interviewed several users who claimed they couldn't open this app and asked them to provide video proof.  The fact is, the app icon appeared in the menu bar in the videos they sent, but they simply hadn't noticed it.
+
 There may be other situations that I haven't considered，but if you encounter a problem, please provide a screenshot of your **About My Mac** page and your demo video link which could reproduce the problem. I'll investigate it and get back to you as soon as possible.
 
 ---
